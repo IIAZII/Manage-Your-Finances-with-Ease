@@ -71,9 +71,9 @@ FinanceFlow offers detailed financial reports. Below is an example of a monthly 
 
 ```json
 {
-  "month": "October",
-  "income": 4000,
-  "expenses": 3200,
+  "month": "December",
+  "income": 5000,
+  "expenses": 4200,
   "savings": 800,
   "categories": [
     {"name": "Groceries", "budget": 500, "spent": 450},
